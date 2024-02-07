@@ -10,7 +10,7 @@ Desenvolvido por:
 ## Índice
 
 * [1. Resumo do projeto](#1-resumo-do-projeto)
-* [2. Resultado do Projeto](#2-resultado-do-projeto)
+* [2. Resultado Final](#2-resultado-final)
 * [3. Tecnologias Utilizadas](#3-tecnologias-utilizadas)
 
 ***
