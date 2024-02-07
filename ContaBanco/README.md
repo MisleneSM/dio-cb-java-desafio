@@ -1,6 +1,7 @@
 <h1 align="center"> DIO - Trilha Java Básico Desafio </h1>
 
 <div align="center">
+   
 Desenvolvido por:
 <br>Mislene Moura - [Linkedin](https://www.linkedin.com/in/mislene-silva-moura-1211531b4//) |
    [Github](https://github.com/MisleneSM)
@@ -9,9 +10,8 @@ Desenvolvido por:
 ## Índice
 
 * [1. Resumo do projeto](#1-resumo-do-projeto)
-* [2. Objetivos de aprendizagem](#2-objetivos-de-aprendizagem)
-* [3. Resultado do Projeto](#3-resultado-do-projeto)
-* [4. Tecnologias Utilizadas](#4-tecnologias-utilizadas)
+* [2. Resultado do Projeto](#2-resultado-do-projeto)
+* [3. Tecnologias Utilizadas](#3-tecnologias-utilizadas)
 
 ***
 
@@ -48,7 +48,7 @@ Sobre o desafio:
 
 Os campos em [ ] devem ser alterados pelas informações que forem inseridas pelos usuários.
 
-## 3. Resultado Final✅
+## 2. Resultado Final✅
 
 ### Terminal IDE
 
@@ -58,6 +58,6 @@ Os campos em [ ] devem ser alterados pelas informações que forem inseridas pel
 
 ![CMD](./src/img/cmd.png)
 
-## 4. Tecnologias Utilizadas✅ 
+## 3. Tecnologias Utilizadas✅ 
 
 [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
